@@ -7,11 +7,13 @@
 **命令**
 
 *deep-touch test1.js test2.js -p test.test*
+
 *dt test1.js test2.js -p test.test*
 
 or
 
 *deep-touch test1.js test2.js --path test.test*
+
 *dt test1.js test2.js --path test.test*
 
 将在当前目录test/test下创建test1.js test2.js两个文件
